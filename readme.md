@@ -4,3 +4,7 @@ Nessa pasta tentarei fazer alguns mini projetos para treinar meu python, aplican
 
 ## Lista de projetos:
 - Adivinhe o número
+- Jo ken Po
+- Xadrez
+- O Jogo do enforcado
+- Jogo da Velha
