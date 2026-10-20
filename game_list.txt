@@ -2,3 +2,4 @@ Adivinhe o número: projects.adivinhe_o_numero.main
 Jo Ken Po!: projects.jo-ken-po.main
 Xadrez: projects.xadrez.main
 Jogo do Enforcado: projects.enforcado.main
+Jogo Da Velha: projects.jogo_da_velha.main
