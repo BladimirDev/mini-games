@@ -1,0 +1,4 @@
+casa
+civic
+computador
+teclado

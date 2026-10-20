@@ -1,0 +1,10 @@
+tittle_text: Adivina el Número
+instructions_message: Este juego consiste en adivinar un número aleatorio dentro de un rango determinado; tú irás introduciendo el número que creas que es y yo te indicaré si el número es mayor o menor.
+input_number_message: Ingrese su número:
+larger_attempt_message: ¡El número es mayor que ese! Inténtalo de nuevo.
+smaller_attempt_message: ¡El número es menor que ese! Inténtalo de nuevo.
+victory_message: ¡Felicidades! ¡Lograste adivinar el número!
+attempts_message1: Necesitaste
+attempts_message2: intentos!!
+no_valid_number_message: El número ingresado no es válido. Inténtelo de nuevo.
+out_of_range_message: ¡El número está fuera del rango permitido! Inténtelo de nuevo.

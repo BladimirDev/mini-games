@@ -1,0 +1,10 @@
+tittle_text: Guess the Number
+instructions_message: This game involves guessing a random number within a specific range; you enter your guess, and I will let you know if the number is higher or lower.
+input_number_message: Enter your number:
+larger_attempt_message: The number is higher than that! Try again.
+smaller_attempt_message: The number is smaller than that! Try again.
+victory_message: Congratulations!! You managed to guess the number!!
+attempts_message1: It took you
+attempts_message2: attempts!!
+no_valid_number_message: The number entered is invalid! Please try again.
+out_of_range_message: The number is out of the allowed range! Please try again.

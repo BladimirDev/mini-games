@@ -1,0 +1,10 @@
+tittle_text: Adivinha o Número
+instructions_message: Esse jogo consiste em adivinhar um número aleatório do mínimo ao máximo, onde você irá inserindo o que você acha que poderia ser e posteriormente eu avisarei se esse número é maior ou menor
+input_number_message: Insira seu número:
+larger_attempt_message: O número é maior do que esse! Tente novamente
+smaller_attempt_message: O número é menor do que esse! Tente novamente
+victory_message: Parabéns!! Você conseguiu adivinhar o número!!
+attempts_message1: Você levou
+attempts_message2: tentativas!!
+no_valid_number_message: O número digitado não é valido! tente novamente
+out_of_range_message: O número está fora do intervalo permitido! tente novamente
