@@ -1,702 +1,505 @@
-casa
-civic
-computador
-teclado
-caneta
-computador
-cadeira
-chuva
-janela
-garrafa
-sapato
-livro
-mesa
-carro
-porta
-travesseiro
-escola
-trabalho
-futebol
-almoço
-mercado
-rua
-cidade
-gente
-tempo
-dinheiro
-chave
-carteira
-celular
-relogio
-copo
-colher
-prato
-panela
-fogao
-geladeira
-cozinha
-quarto
-banheiro
-sala
-tapete
-espelho
-escova
-toalha
-sabonete
-shampoo
-roupa
-camisa
-calça
-meia
-casaco
-mochila
-pasta
-papel
-lapis
-borracha
-caderno
-regua
-tesoura
-cola
-tinta
-pincel
-quadro
-parede
-teto
-chao
-porta
-portao
-quintal
-jardim
-planta
-flor
-arvore
-folha
-grama
-terra
-pedra
-areia
-agua
-fogo
-vento
-nuvem
-sol
-lua
-estrela
-ceu
-noite
-dia
-manha
-tarde
-semana
-mes
-ano
-hora
-minuto
-segundo
-relogio
-calendario
-agenda
-lembrete
-recado
-carta
-email
-mensagem
-ligacao
-conversa
-voz
-som
-musica
-radio
-televisao
-filme
-serie
-video
-foto
-imagem
-desenho
-pintura
-arte
-teatro
-cinema
-show
-festa
-aniversario
-presente
-bolo
-doce
-salgado
-pao
-queijo
-presunto
-manteiga
-leite
-cafe
-cha
-suco
-refrigerante
-vinho
-cerveja
-copo
-taca
-xicara
-prato
-talher
-garfo
-faca
-colher
-guardanapo
-toalha
-mesa
-cadeira
-banco
-sofa
-poltrona
-almofada
-tapete
-cortina
-janela
-vidro
-espelho
-quadro
-parede
-tinta
-pincel
-martelo
-prego
-parafuso
-ferramenta
-alicate
-chave
-fechadura
-trinco
-cadeado
-portao
-muro
-cerca
-calcada
-rua
-avenida
-praca
-parque
-bosque
-floresta
-campo
-praia
-mar
-rio
-lago
-lagoa
-cachoeira
-piscina
-banho
-chuveiro
-torneira
-pia
-vaso
-balde
-vassoura
-rodo
-pano
-lixo
-lixeira
-saco
-caixa
-pacote
-embrulho
-sacola
-bolsa
-mochila
-mala
-viagem
-ferias
-passeio
-caminhada
-corrida
-treino
-academia
-esporte
-jogo
-bola
-quadra
-campo
-estadio
-torcida
-time
-camisa
-chuteira
-meia
-calcao
-bermuda
-calca
-shorts
-saia
-vestido
-blusa
-casaco
-jaqueta
-capa
-guarda-chuva
-sol
-calor
-frio
-inverno
-verao
-outono
-primavera
-tempo
-clima
-vento
-tempestade
-trovao
-raio
-nevoa
-neblina
-fumaça
-fogo
-cinza
-carvao
-lenha
-chaminé
-telhado
-calha
-tijolo
-cimento
-areia
-pedra
-ferro
-aço
-madeira
-plastico
-vidro
-papel
-papelao
-tecido
-linha
-agulha
-botao
-ziper
-costura
-roupa
-armario
-gaveta
-cabide
-cama
-colchao
-lençol
-manta
-coberta
-edredom
-travesseiro
-fronha
-tapete
-cortina
-abajur
-lampada
-fio
-tomada
-interruptor
-energia
-luz
-vela
-fosforo
-isqueiro
-fumo
-cigarro
-cinzeiro
-gás
-fogao
-forno
-microondas
-panela
-frigideira
-leiteira
-bule
-garrafa
-copo
-jarra
-filtro
-agua
-gelo
-sorvete
-picolé
-doce
-bala
-chiclete
-chocolate
-biscoito
-bolacha
-bolo
-torta
-pao
-torrada
-geleia
-mel
-açucar
-sal
-pimenta
-vinagre
-azeite
-oleo
-tempero
-alho
-cebola
-tomate
-alface
-batata
-cenoura
-arroz
-feijao
-macarrao
-carne
-frango
-peixe
-ovo
-queijo
-presunto
-salsicha
-linguica
-carneiro
-porco
-boi
-vaca
-cavalo
-egua
-asno
-burro
-cabra
-bode
-ovelha
-carneiro
-galinha
-galo
-pinto
-pato
-marreco
-ganso
-peru
-passaro
-bemtevi
-pardo
-pombo
-urubu
-gaviao
-aguia
-coruja
-morcego
-rato
-barata
-formiga
-mosca
-mosquito
-pernilongo
-abelha
-vespa
-marimbondo
-aranha
-escorpiao
-cobra
-lagarto
-sapo
-ra
-perereca
-peixe
-tubarao
-baleia
-golfinho
-siri
-caranguejo
-camarao
-lagosta
-concha
-ostra
-marisco
-polvo
-lula
-agua-viva
-coral
-alga
-areia
-praia
-mar
-onda
-surf
-barco
-navio
-lancha
-iate
-vela
-remo
-canoa
-caiaque
-pesca
-anzol
-linha
-rede
-peixe
-rio
-riacho
-corrego
-fonte
-mina
-poço
-balde
-corda
-nó
-laço
-fita
-elastico
-barbante
-fio
-arame
-prego
-parafuso
-porca
-aruela
-ferramenta
-martelo
-serrote
-alicate
-chave
-fenda
-philips
-teste
-fita
-isolante
-crepe
-adesiva
-dupla
-face
-cola
-bastao
-liquida
-silicone
-massa
-corrida
-gesso
-cal
-cimento
-tijolo
-bloco
-telha
-madeira
-tabua
-viga
-caibro
-ripa
-prego
-martelo
-obra
-pedreiro
-servente
-mestre
-engenheiro
-arquiteto
-desenho
-planta
-projeto
-maquete
-escala
-metro
-trena
-regua
-esquadro
-nivel
-linha
-prumo
-lapis
-papel
-bloco
-caderno
-caneta
-lapiseira
-grafite
-borracha
-apontador
-estojo
-mochila
-pasta
-livro
-dicionario
-enciclopedia
-revista
-jornal
-noticia
-reportagem
-artigo
-texto
-frase
-palavra
-letra
-silaba
-som
-voz
-fala
-discurso
-palestra
-aula
-escola
-colegio
-faculdade
-universidade
-curso
-aluno
-estudante
-professor
-mestre
-diretor
-secretaria
-sala
-quadro
-giz
-apagador
-carteira
-cadeira
-banco
-patio
-refeitorio
-lanche
-recreio
-sinal
-sirene
-sino
-igreja
-torre
-santo
-altar
-banco
-velas
-rezas
-preces
-culto
-missa
-festa
-romaria
-rua
-bairro
-vila
-cidade
-estado
-pais
-mundo
-terra
-planeta
-sistema
-solar
-sol
-lua
-estrela
-cometa
-meteoro
-galaxia
-espaço
-universo
-tempo
-passado
-presente
-futuro
-ontem
-hoje
-amanha
-cedo
-tarde
-noite
-madrugada
-alvorada
-amanhecer
-entardecer
-anoitecer
-escuro
-claro
-luz
-sombra
-reflexo
-espelho
-imagem
-foto
-quadro
-parede
-casa
-lar
-familia
-pai
-mae
-filho
-filha
-irmao
-irma
-avo
-avo
-tio
-tia
-primo
-prima
-sobrinho
-sobrinha
-neto
-neta
-casal
-marido
-esposa
-noivo
-noiva
-namorado
-namorada
-amigo
-amiga
-colega
-vizinho
-vizinha
-conhecido
-povo
-gente
-pessoa
-homem
-mulher
-menino
-menina
-bebe
-criança
-jovem
-adulto
-idoso
-velho
-novo
-antigo
-moderno
-futurista
-antiguidade
-historia
-museu
-arte
-cultura
-musica
-som
-ritmo
-dança
-baile
-festa
-show
-palco
-teatro
-ator
-atriz
-peça
-cena
-roteiro
-filme
-cinema
-pipoca
-refrigerante
-bala
-doce
-chocolate
-sorvete
-sobremesa
-jantar
-comida
-fome
-sede
-copo
-agua
-vida
+casa: Recinto arquitetônico destinado à mitigação das intempéries e ao resguardo da privacidade biológica familiar.
+civic: Artefato automobilístico nipônico de tração dianteira, notório pela simetria mecânica e apelo secular de consumo.
+computador: Engenho eletrônico processador de matrizes binárias e fluxos lógicos semicondutores.
+teclado: Interface periférica composta por matriz datilográfica para a transdução de impulsos mecânicos em caracteres digitais.
+caneta: Instrumento cilíndrico de vazão capilar destinado à deposição controlada de pigmento fluido em superfícies celulósicas.
+computador: Máquina computacional operadora de algoritmos siliciosos sob arquitetura de Von Neumann.
+cadeira: Assento ortopédico unifamiliar provido de sustentação vertical quadrúpede e encosto dorsal.
+chuva: Precipitação atmosférica resultante da condensação pluvial de vapores troposféricos.
+janela: Abertura fenestrada em alvenaria que permite a transição lumínica e a ventilação sem descontinuar a barreira estrutural.
+garrafa: Recipiente de gargalo estreito destinado à contenção estática de fluidos hidrodinâmicos.
+sapato: Invólucro podálico semirrígido voltado à proteção do bipedalismo contra o atrito geológico.
+livro: Códice encadernado contendo sequências lineares de grafemas para transmissão transgeracional de conhecimento.
+mesa: Superfície plana horizontalizada e elevada, destinada ao suporte de utensílios e atividades antropocêntricas.
+carro: Carruagem autopropulsada por combustão interna ou indução magnética sobre eixos rodoviários.
+porta: Painel pivotante que atua como válvula de controle de fluxo de corpos entre ambientes distintos.
+travesseiro: Suporte anatômico maleável projetado para o alinhamento da coluna cervical durante o repouso homeostático.
+escola: Instituição formalizada para a doutrinação pedagógica e socialização precoce de indivíduos em desenvolvimento.
+trabalho: Dispêndio de energia psicofísica indexado ao sistema produtivo em troca de proventos de subsistência.
+futebol: Disputa lúdica territorial onde vinte e duas mentes buscam a indução de uma esfera a uma meta retangular.
+almoço: Repasto meridiano destinado à reposição calórica intermediária do ciclo circadiano.
+mercado: Entreposto comercial centralizado onde se opera a troca de moedas fiat por insumos de subsistência.
+rua: Via pública pavimentada que atua como vetor de circulação urbana e ordenamento de lotes.
+cidade: Aglomerado antrópico de alta densidade demográfica caracterizado pela infraestrutura cinzenta e complexidade cívica.
+gente: Agrupamento indefinido de espécimes vivos pertencentes à linhagem do Homo sapiens sapiens.
+tempo: Dimensão contínua em que os eventos se sucedem irreversivelmente do passado ao porvir.
+dinheiro: Instrumento fiduciário abstrato utilizado como equivalente universal de valor e liquidação de dívidas.
+chave: Instrumento metálico codificado cujos segredos mecânicos liberam trincos e fechaduras.
+carteira: Receptáculo portátil e compartimentado para a custódia de cédulas, cartões e registros de identidade.
+celular: Terminal portátil de comunicação eletromagnética integrada que mimetiza o córtex de dados moderno.
+relogio: Mecanismo cronométrico síncrono que fragmenta a continuidade temporal em frações exatas.
+copo: Recipiente cilíndrico de base plana, otimizado para a anatomia manual e transporte de líquidos à cavidade oral.
+colher: Utensílio côncavo terminal dotado de haste, projetado para a translação de porções fluidas ou pastosas.
+prato: Anteparo discoide de baixa profundidade utilizado como substrato para a organização de alimentos.
+panela: Vaso termorresistente com alças, concebido para a cocção e transformação química de compostos alimentares.
+fogao: Equipamento gerador de calor controlado por via gasosa ou elétrica para a termofilia culinária.
+geladeira: Gabinete endotérmico isolado que desacelera a entropia biológica e a proliferação bacteriana de alimentos.
+cozinha: Laboratório doméstico dedicado à alquimia gastronômica e manipulação térmica de nutrientes.
+quarto: Santuário residencial privado otimizado para o recolhimento noturno e a inconsciência reparadora.
+banheiro: Recinto hidráulico especializado na higienização corporal e descarte de efluentes fisiológicos.
+sala: Ambiente de convívio social residencial voltado à recepção e ao ócio contemplativo.
+tapete: Cobertura têxtil horizontal destinada ao isolamento térmico e podotátil do pavimento.
+espelho: Superfície metalizada reflexiva que replica o espectro luminoso visível incidentado com inversão lateral.
+escova: Cerda multifacetada fixada a uma haste, usada para a fricção organizadora ou limpeza de superfícies.
+toalha: Tecido de alta hidrofilia e textura felpuda voltado à dessecação cutânea por absorção capilar.
+sabonete: Composto lipídico saponificado com propriedades tensioativas para a emulsificação de sujidades epidérmicas.
+shampoo: Detergente cosmético capilar formulado para a remoção de sebo sem denaturação proteica dos fios.
+roupa: Cobertura artificial têxtil que atua como barreira térmica e marcador de convenções socioculturais.
+camisa: Indumento torácico dotado de gola e abotoamento frontal para a cobertura do tronco superior.
+calça: Vestimenta bifurcada que envolve individualmente os membros inferiores a partir da linha da cintura.
+meia: Invólucro têxtil flexível que minimiza o atrito entre a derme plantar e o calçado rígido.
+casaco: Peça de sobreposição de alta gramatura voltada à retenção do calor metabólico contra gradientes de frio.
+mochila: Bolsa dorsal provida de alças escapulares para o transporte ergonômico de carga pessoal.
+pasta: Receptáculo plano e rígido para o arquivamento e proteção contra dobras de folhas manuscritas.
+papel: Película fibrosa obtida pela aglutinação e prensagem de polpa celulósica desidratada.
+lapis: Haste lenhosa que envolve um núcleo de grafite fusível para marcações por fricção carbonácea.
+borracha: Polímero elástico abrasivo capaz de romper ligações de grafite aderidas a fibras de papel.
+caderno: Conjunto foliáceo costurado ou espiralado destinado ao registro cronológico de dados textuais.
+regua: Instrumento linear retilíneo dotado de escala métrica para aferição e vetorização espacial de traços.
+tesoura: Mecanismo de alavanca interfixada com lâminas cortantes que cisalham materiais flexíveis.
+cola: Substância polimérica adesiva que estabelece pontes de fixação molecular entre duas superfícies.
+tinta: Suspensão fluida pigmentada que, ao secar, forma uma película opaca e cromática sobre um substrato.
+pincel: Agrupamento de filamentos flexíveis fixados a um cabo, utilizado para a transferência fluida de pigmentos.
+quadro: Superfície plana delimitada por moldura, destinada à fixação de representações pictóricas ou textuais.
+parede: Elemento estrutural vertical que segmenta o espaço e sustenta as cargas superiores da edificação.
+teto: Limite superior interno de um recinto que oculta a estrutura do telhado e confina o ar quente.
+chao: Pavimento de base estabilizado sobre o qual se assentam todas as dinâmicas físicas de um ambiente.
+porta: Componente de vedação móvel que permite ou veda a transição física através de portais.
+portao: Barreira de grande porte que delimita o acesso de veículos e pedestres ao perímetro externo.
+quintal: Espaço descoberto remanescente na porção posterior ou lateral de um lote residencial.
+jardim: Espaço antrópico planejado para o cultivo e exibição ornamental de espécimes botânicos.
+planta: Organismo eucarionte autotrófico fotossintetizante provido de paredes celulares de celulose.
+flor: Estrutura reprodutiva angiospérmica caracterizada por antocianinas e apelo visual a vetores polinizadores.
+arvore: Vegetal lenhoso perene dotado de eixo principal ereto e ramificação apical distante do solo.
+folha: Apêndice lateral laminar e clorofilado, especializado na captação fotônica e trocas gasosas vegetais.
+grama: Cobertura vegetal rasteira e densa da família das poáceas, mantida por podas periódicas.
+terra: Matriz mineral e orgânica friável que compõe a camada superficial da crosta continental.
+pedra: Fragmento consolidado de matéria mineral ou rochosa desprendido de seu maciço originário.
+areia: Sedimento granular clástico composto predominantemente por partículas de quartzo degradado.
+agua: Substância líquida inodora e incolor formada por ligações covalentes de hidrogênio e oxigênio.
+fogo: Reação química exotérmica de oxidação rápida com emissão de plasma luminoso e gases aquecidos.
+vento: Fluxo gasoso atmosférico gerado por gradientes de pressão e convecção térmica global.
+nuvem: Aglomerado visível de microgotículas de H2O ou cristais de gelo suspensos na troposfera.
+sol: Estrela anã amarela de sequência principal que governa a gravidade e o aporte energético do sistema local.
+lua: Satélite natural rochoso que orbita a Terra, influenciando os ciclos de maré e a iluminação noturna.
+estrela: Esfera plasmática massiva mantida em equilíbrio hidrostático por fusão nuclear interna.
+ceu: Abóbada celeste visível a partir da superfície terrestre, cuja coloração varia por espalhamento de Rayleigh.
+noite: Período de obscuridade hemisférica decorrente da rotação planetária em oposição à fonte estelar primária.
+dia: Intervalo de iluminação diurna ou ciclo rotacional completo de vinte e quatro horas temporais.
+manha: Estágio inicial do ciclo diurno, compreendido entre a alvorada e a passagem meridiana do sol.
+tarde: Período pós-meridiano que antecede o declínio do sol abaixo da linha do horizonte ocidental.
+semana: Ciclo cronológico artificial composto por sete rotações axiais completas da Terra.
+mes: Divisão do calendário civil baseada aproximadamente no ciclo de lunação sinódica.
+ano: Período correspondente a uma translação elíptica completa do planeta ao redor de sua estrela.
+hora: Unidade cronométrica equivalente a sessenta frações sexagesimais de minuto.
+minuto: Intervalo temporal definido pela sexagésima parte de uma hora astronômica.
+segundo: Unidade fundamental de tempo no SI, baseada na transição hiperfina do átomo de césio-133.
+relogio: Instrumento autômato indicador do avanço angular das coordenadas de tempo.
+calendario: Sistema de ordenamento macrotemporal que organiza os dias em semanas, meses e épocas.
+agenda: Compêndio cronológico para o planejamento e registro prospectivo de compromissos humanos.
+lembrete: Dispositivo ou nota mnemônica destinada a evitar a vacância de um dado na memória de curto prazo.
+recado: Informação concisa transmitida por intermédio de terceiros a um destinatário ausente.
+carta: Epístola manuscrita ou impressa selada em invólucro para comunicação assíncrona à distância.
+email: Correspondência digital transmitida via protocolos eletrônicos de rede.
+mensagem: Unidade discreta de informação enviada de um emissor a um receptor através de um canal.
+ligacao: Estabelecimento de canal de comunicação fonográfica em tempo real entre dois terminais remotos.
+conversa: Intercâmbio dialético verbal entre dois ou mais agentes cognitivos.
+voz: Produção acústica humana gerada pela vibração das pregas vocais sob pressão pulmonar.
+som: Onda mecânica longitudinal que se propaga através de meios elásticos e sensibiliza o sistema auditivo.
+musica: Organização expressiva de sons e silêncios estruturada sob parâmetros de ritmo, harmonia e melodia.
+radio: Aparelho receptor de modulações de radiofrequência para difusão de conteúdo sonoro.
+televisao: Sistema de recepção de sinais eletromagnéticos para reprodução sincrônica de imagens em movimento e áudio.
+filme: Obra cinematográfica narrativa constituída pela projeção sequencial de fotogramas.
+serie: Produção audiovisual seriada dividida em episódios e temporadas com arcos narrativos contínuos.
+video: Tecnologia de processamento, gravação e reprodução de matrizes visuais eletrônicas em movimento.
+foto: Registro estático de uma cena obtido pela fixação da luz sobre uma superfície fotossensível ou sensor digital.
+imagem: Representação visual bidimensional que mimetiza a geometria ou a cromia de um objeto real.
+desenho: Representação gráfica bidimensional baseada na deposição de linhas e contornos sobre uma superfície.
+pintura: Aplicação técnica de pigmentos viscosos sobre uma tela para fins estéticos ou figurativos.
+arte: Manifestação estética humana que expressa a subjetividade através de arranjos materiais ou conceituais.
+teatro: Arte performática baseada na personificação dramática presencial diante de uma audiência viva.
+cinema: Arte e indústria da projeção de imagens em movimento em sala escura hiperacústica.
+show: Apresentação pública espetacular, geralmente de natureza musical ou performática de grande porte.
+festa: Evento social celebrativo marcado por rituais de congraçamento, música e consumo alimentar.
+aniversario: Efeméride que assinala a conclusão de mais um ciclo translacional completo desde o nascimento do indivíduo.
+presente: Objeto de transferência voluntária de propriedade sem contrapartida financeira, visando o afeto.
+bolo: Confeito massivo assado, geralmente aerado e adocicado, central nas celebrações de aniversário.
+doce: Alimento com alta concentração de sacarose ou outros carboidratos de palatabilidade adocicada.
+salgado: Preparado gastronômico onde predomina o cloreto de sódio em sua modulação de sabor.
+pao: Alimento básico obtido pelo cozimento de uma massa fermentada de farinha cerealífera e água.
+queijo: Concentrado proteico e lipídico obtido pela coagulação do leite e separação do soro.
+presunto: Derivado cárneo obtido do membro posterior de suínos através de processos de cura e salga.
+manteiga: Emulsão graxa obtida pelo batimento do creme de leite, rica em lipídios de origem animal.
+leite: Secreção nutritiva esbranquiçada produzida pelas glândulas mamárias de fêmeas de mamíferos.
+cafe: Infusão termogênica obtida a partir dos grãos torrados e moídos do arbusto Coffea.
+cha: Infusão aromática preparada pela imersão de folhas secas de Camellia sinensis em água aquecida.
+suco: Líquido natural extraído por pressão mecânica das estruturas celulares de frutos carnosos.
+refrigerante: Bebida analcoólica gaseificada artificialmente por dióxido de carbono e saturada de xaropes.
+vinho: Bebida alcoólica resultante da fermentação anaeróbica do mosto de uvas esmagadas.
+cerveja: Bebida alcoólica obtida pela fermentação de amidos cerealíferos maltados, aromatizada com lúpulo.
+copo: Cilindro Contentor de líquidos desprovido de apêndices laterais.
+taca: Recipiente bojudo assentado sobre haste e base circular, voltado à análise sensorial de bebidas.
+xicara: Pequeno vaso com asa lateral, otimizado para o consumo de líquidos sob alta temperatura.
+prato: Anteparo plano utilizado para a distribuição e suporte de porções culinárias.
+talher: Categoria instrumental metálica destinada à manipulação higiênica de alimentos à mesa.
+garfo: Utensílio tridente ou quadridente voltado à perfuração e fixação de alimentos sólidos.
+faca: Instrumento de gume afiado destinado ao seccionamento e corte de estruturas alimentares.
+colher: Concha minúscula alongada para a condução de frações líquidas ou pastosas.
+guardanapo: Peça têxtil ou celulósica descartável destinada à ablução manual e labial durante as refeições.
+toalha: Cobertura de tecido que resguarda a mesa do contato direto com os utensílios culinários.
+mesa: Plataforma horizontal de apoio para atividades sociais e refeições coletivas.
+cadeira: Dispositivo mobiliário para repouso pélvico individual com suporte vertical.
+banco: Assento coletivo ou individual desprovido de braços ou encosto dorsal rígido.
+sofa: Mobiliário estofado multiplés de repouso, projetado para o conforto ergonômico na área de convívio.
+poltrona: Cadeira estofada de dimensões generosas provida de apoios bilaterais para os braços.
+almofada: Saco têxtil preenchido com fibras macias para a mitigação de pontos de pressão em assentos.
+tapete: Trama têxtil estendida sobre o piso para fins de ornamentação e conforto térmico.
+cortina: Painel têxtil suspenso verticalmente para o controle da luminosidade e privacidade de aberturas vítreas.
+janela: Vão estrutural que conecta o microclima interno às variações luminosas do ambiente externo.
+vidro: Sólido amorfo não cristalino, transparente e frágil, obtido pela fusão de sílica em alta temperatura.
+espelho: Dispositivo de reflexão especular baseado em amálgama metálico polido sob vidro.
+quadro: Elemento ornamental bidimensional composto por imagem fixada em suporte perimetral.
+parede: Divisória vertical de alvenaria que delimita a compartimentação de uma estrutura habitacional.
+tinta: Revestimento fluido protetivo e estético que sofre polimerização ao ar livre.
+pincel: Ferramenta aplicadora de fluidos por capilaridade de cerdas agrupadas.
+martelo: Ferramenta de percussão manual dotada de cabeça pesada e rígida para aplicação de energia de impacto.
+prego: Haste metálica pontiaguda com cabeça chata, fixada por impacto para união de componentes.
+parafuso: Elemento de fixação helicoidal que converte torque rotacional em força de compressão linear.
+ferramenta: Objeto manufaturado que atua como extensão mecânica do corpo para a modificação da matéria.
+alicate: Instrumento de articulação interfixa destinado à preensão, dobra ou cisalhamento por compressão manual.
+chave: Artefato mecânico projetado para acionar o segredo interno de um bloqueio de acesso.
+fechadura: Mecanismo de embutir que bloqueia a abertura de portas através de linguetas mecânicas.
+trinco: Trinqueta de travamento manual simplificada para impedir o movimento de folhas de portas.
+cadeado: Dispositivo de segurança portátil e auto-encapsulado com manilha articulada trancável.
+portao: Estrutura móvel de grande escala para controle de fluxo perimetral externo.
+muro: Barreira vertical opaca de alvenaria destinada à delimitação de propriedades e segurança perimetral.
+cerca: Estrutura delatora ou obstrutiva perimetral baseada em tramas de arame, madeira ou elementos vazados.
+calcada: Faixa lateral pavimentada destinada exclusivamente ao tráfego de pedestres nas vias urbanas.
+rua: Espaço público de circulação de veículos delimitado pelos alinhamentos prediais.
+avenida: Via urbana de tráfego arterial, caracterizada por maior largura e fluxo volumétrico de veículos.
+praca: Espaço público urbano descoberto, ajardinado ou pavimentado, destinado ao ócio comunitário.
+parque: Área verde urbana delimitada, destinada à preservação paisagística e recreação da população.
+bosque: Formação vegetal densa de média extensão onde predominam árvores de porte médio.
+floresta: Ecossistema florestal de grande escala dominado por densa cobertura arbórea e biodiversidade complexa.
+campo: Extensão de terra aberta, sem relevo pronunciado, dominada por vegetação rasteira ou pastagens.
+praia: Zona de deposição sedimentar inconsolidada à beira de corpos d'água, influenciada por dinâmicas de ondas.
+mar: Massa de água salgada contínua que circunda os continentes e cobre a maior parte da litosfera.
+rio: Fluxo d'água canalizado de curso natural que se desloca por gravidade em direção a uma foz.
+lago: Depressão topográfica continental preenchida permanentemente por uma massa de água estagnada.
+lagoa: Corpo d'água continental de menores dimensões e profundidade em relação ao lago.
+cachoeira: Descontinuidade vertical no perfil longitudinal de um curso d'água, gerando queda livre fluida.
+piscina: Tanque artificial impermeabilizado e preenchido com água tratada para atividades de recreação ou natação.
+banho: Prática de imersão ou aspersão hídrica corporal voltada à higienização ou relaxamento.
+chuveiro: Dispositivo de dispersão hídrica pressurizada em gotículas para banhos verticais.
+torneira: Válvula de controle de fluxo hidráulico terminal instalada em pontos de consumo de água.
+pia: Cuba côncava provida de dreno e alimentação hídrica para lavagem de mãos ou utensílios.
+vaso: Receptáculo sanitário cerâmico dotado de sifão para a recepção e evacuação hídrica de dejetos.
+balde: Recipiente cilíndrico-cônico portátil provido de alça semicircular para o transporte manual de fluidos.
+vassoura: Utensílio de varrição composto por cerdas lineares acopladas perpendicularmente a um longo cabo.
+rodo: Instrumento dotado de lâmina flexível de borracha para a raspagem e condução de películas de água sobre superfícies planas.
+pano: Fragmento têxtil maleável utilizado para fricção, limpeza ou absorção de umidade em superfícies.
+lixo: Resíduos sólidos descartados resultantes das atividades humanas e desprovidos de utilidade imediata para o gerador.
+lixeira: Recipiente contentor destinado ao armazenamento temporário de resíduos antes de sua coleta.
+saco: Embalagem flexível de base selada, otimizada para o acondicionamento de volumes diversos.
+caixa: Recipiente tridimensional ortogonal rígido dotado de tampa ou abas para armazenamento e transporte.
+pacote: Volume de mercadorias envolvido ou amarrado para fins de movimentação logística ou postagem.
+embrulho: Envoltório protetivo ou estético aplicado manualmente ao redor de um objeto.
+sacola: Receptáculo flexível dotado de alças para o transporte manual de compras de conveniência.
+bolsa: Acessório de moda portátil com fechamento, destinado ao transporte de pertences de uso diário.
+mochila: Contentor de carga dorsal que distribui o peso sobre a cintura escapular do usuário.
+mala: Receptáculo rígido ou semirrígido com alça, otimizado para o transporte de vestuário em deslocamentos de longa distância.
+viagem: Deslocamento espacial transitório de um agente para fora de seu habitat residencial habitual.
+ferias: Período legal de suspensão das atividades laborais voltado ao descanso e ao lazer do indivíduo.
+passeio: Deslocamento recreativo de curta duração sem propósito produtivo ou comercial.
+caminhada: Atividade locomotora bípede realizada em ritmo moderado para fins de deslocamento ou manutenção física.
+corrida: Locomoção bípede acelerada caracterizada por uma fase de suspensão aérea entre os apoios plantares.
+treino: Protocolo sistemático de exercícios físicos voltado à otimização de valências fisiológicas.
+academia: Centro esportivo indoor dotado de maquinários de sobrecarga e supervisão profissional para condicionamento corporal.
+esporte: Atividade física institucionalizada, submetida a regras estritas e de caráter competitivo.
+jogo: Atividade lúdica governada por regras arbitrárias onde o intelecto ou a habilidade física buscam a vitória.
+bola: Esfera ou esferoide elástico utilizado como objeto central de disputa em diversas modalidades lúdicas.
+quadra: Superfície retangular delimitada e pavimentada, projetada para a prática de esportes coletivos específicos.
+campo: Espaço gramado de grandes dimensões destinado à prática de desportos de alta ocupação territorial.
+estadio: Complexo arquitetônico de grande porte dotado de arena central e arquibancadas para assistência de massas.
+torcida: Coletivo de espectadores que canaliza apoio emocional e vocal a uma agremiação desportiva.
+time: Agrupamento de atletas associados sob uma mesma identidade para a consecução de objetivos desportivos.
+camisa: Peça têxtil superior com identidade cromática e heráldica representativa de um clube.
+chuteira: Calçado desportivo dotado de cravos plantares para otimização do coeficiente de atrito em gramados.
+meia: Indumento tubular flexível que se estende sobre a perna para proteção contra impactos superficiais.
+calcao: Vestimenta inferior curta que encerra a pelve e a porção superior das coxas dos atletas.
+bermuda: Calça encurtada cuja terminação se estende até a proximidade da articulação do joelho.
+calca: Indumento bifurcado de cobertura completa dos membros inferiores.
+shorts: Peça de vestuário sumária para a região pélvica, focada na máxima amplitude de movimento.
+saia: Vestimenta cilíndrica contínua suspensa pela cintura que envolve os membros inferiores sem bifurcação.
+vestido: Peça de vestuário integrada que cobre simultaneamente o tronco e os membros inferiores de forma contínua.
+blusa: Vestimenta superior leve de corte variado para a cobertura do tórax humano.
+casaco: Peça de sobreposição de mangas longas voltada ao isolamento térmico.
+jaqueta: Casaco curto e resistente, geralmente provido de fechamento por zíper e tecidos impermeáveis.
+capa: Vestimenta envolvente sem mangas ou repelente à água que se sobrepõe ao vestuário principal.
+guarda-chuva: Dispositivo colapsável composto por copa têxtil impermeável sob varetas metálicas para deflexão pluvial.
+sol: Fonte de radiação eletromagnética e calor que governa as condições térmicas diurnas.
+calor: Sensação térmica decorrente da alta energia cinética molecular do ambiente atmosférico.
+frio: Percepção fisiológica da ausência ou redução extrema de energia térmica no meio circundante.
+inverno: Solstício que marca a estação de menor incidência de radiação solar e consequente declínio térmico.
+verao: Estação do ciclo anual caracterizada pelos maiores ângulos de incidência solar e elevadas temperaturas.
+outono: Período de transição climática marcado pela senescência foliar e redução gradativa da luminosidade.
+primavera: Estação de transição caracterizada pelo recrudescimento vegetativo e floração generalizada.
+tempo: Estado momentâneo das variáveis físicas da atmosfera em um dado ponto geográfico.
+clima: Padrão estatístico multidecadal das condições atmosféricas de uma região específica.
+vento: Vetor de deslocamento de massas de ar gerado por diferenciais de temperatura global.
+tempestade: Perturbação atmosférica violenta caracterizada por intensa precipitação e ventos de alta velocidade.
+trovao: Onda de choque acústica resultante da expansão supersônica do ar aquecido por uma descarga elétrica.
+raio: Descarga elétrica de grande magnitude estabelecida entre formações de nuvens ou entre estas e o solo.
+nevoa: Suspensão de microgotas d'água no ar que reduz a visibilidade horizontal sem atingir a saturação da neblina.
+neblina: Condensação hídrica ao nível do solo que restringe severamente o alcance da acuidade visual.
+fumaça: Suspensão aérea de partículas carbonáceas e gases resultantes da combustão incompleta de matéria orgânica.
+fogo: Manifestação visível da reação de oxidação rápida com desprendimento calórico e lumínico.
+cinza: Resíduo mineral pulverulento e incombustível que permanece após a pirólise total de um corpo combustível.
+carvao: Matéria carbonosa sólida resultante da destilação seca da madeira ou fossilização vegetal histórica.
+lenha: Porções de tecido lenhoso arbóreo destinadas à alimentação direta de focos de combustão.
+chamine: Conduto vertical projetado para a exaustão por convecção de gases e fumaças de uma lareira ou forno.
+telhado: Estrutura de cobertura externa superior de uma edificação composta por planos inclinados para escoamento pluvial.
+calha: Canaleta metálica ou polimérica disposta nos beirais para a captação e direcionamento de águas de chuva.
+tijolo: Bloco cerâmico paralelompípedo de argila cozida utilizado como unidade estrutural de alvenaria.
+cimento: Aglomerante hidráulico em pó que, em contato com a água, reage formando uma matriz pétrea ligante.
+areia: Componente granular agregado miúdo essencial para a formulação de argamassas e concretos.
+pedra: Agregado graúdo de origem mineral utilizado para conferir resistência mecânica estrutural.
+ferro: Elemento metálico maleável e magnético básico para a sustentação de estruturas de concreto armado.
+aço: Liga metálica de ferro e carbono otimizada para suportar elevadas tensões de tração e cisalhamento.
+madeira: Tecido lenhoso secundário produzido por plantas espermatófitas, amplamente utilizado na carpintaria estrutural.
+plastico: Polímero sintético moldável macromolecular derivado do refino de hidrocarbonetos fósseis.
+vidro: Matriz silicosa transparente obtida por resfriamento super-rápido de compostos fundidos.
+papel: Estrutura laminar originada pelo entrelaçamento mecânico de microfibras celulósicas desidratadas.
+papelao: Composto celulósico multifolha de alta gramatura e rigidez, estruturado para proteção logística.
+tecido: Estrutura planar maleável obtida pelo entrelaçamento ortogonal de fios de origem natural ou sintética.
+linha: Filamento têxtil contínuo de alta resistência à tração usado para a união de superfícies por costura.
+agulha: Haste metálica delgada e pontiaguda dotada de um olho terminal para a passagem de fios.
+botao: Pequeno disco rígido perfurado que se engata em uma casa para fechamento de vestimentas.
+ziper: Mecanismo de fecho baseado no acoplamento linear de dentes metálicos ou plásticos intercalados.
+costura: Junção ou união mecânica estável de tecidos realizada por meio de pontos de fio sucessivos.
+roupa: Anteparo têxtil corporal associado à termorregulação e semiótica identitária.
+armario: Mobiliário volumétrico fechado por portas e provido de prateleiras para o armazenamento de bens pessoais.
+gaveta: Compartimento modular embutido passível de deslizamento horizontal para guarda fracionada de objetos.
+cabide: Suporte anatômico escapular suspenso para manutenção vertical de peças de vestuário sem vincos.
+cama: Estrutura mobiliária horizontalizada destinada ao suporte do corpo humano durante os estados de sono.
+colchao: Bloco espumado ou de molas com propriedades elásticas para amortecimento do peso corporal em repouso.
+lençol: Tecido plano de toque suave utilizado para o revestimento direto do colchão ou cobertura inicial do corpo.
+manta: Cobertura têxtil de média densidade térmica usada para proteção contra quedas moderadas de temperatura.
+coberta: Peça de cama sobreposta de alta capacidade de retenção de calor por aprisionamento de ar estático.
+edredom: Cobertura acolchoada preenchida com plumas ou fibras sintéticas de elevado isolamento térmico.
+travesseiro: Almofada cervical que estabiliza o alinhamento da cabeça em decúbito.
+fronha: Invólucro têxtil lavável protetivo que encerra a estrutura do travesseiro.
+tapete: Elemento têxtil de piso com propriedades ornamentais e amortecedoras.
+cortina: Barreira têxtil vertical móvel voltada ao controle da transmitância luminosa através de aberturas.
+abajur: Dispositivo de iluminação doméstica provido de cúpula difusora para atenuação da luz direta.
+lampada: Transdutor de energia elétrica em radiação luminosa visível por incandescência ou semicondutores.
+fio: Condutor cilíndrico alongado e flexível envolvido em polímero isolante para transporte de elétrons.
+tomada: Ponto de conexão física fêmea conectado à rede elétrica para captação de potencial energético.
+interruptor: Dispositivo eletromecânico que secciona ou estabelece a continuidade de um circuito elétrico.
+energia: Grandeza escalar conservativa que permite a realização de trabalho ou transformações físicas nos sistemas.
+luz: Radiação eletromagnética situada dentro do espectro visível ao olho humano.
+vela: Cilindro de parafina sólida dotado de pavio central cuja combustão lenta gera emissão lumínica tênue.
+fosforo: Palito lenhoso com cabeça química reativa que entra em ignição por atrito contra superfície abrasiva.
+isqueiro: Dispositivo portátil gerador de centelha pirofórica e chama controlada por fluido combustível.
+fumo: Emissão gasosa carbonácea ou ato de inalação de vapores derivados da queima de folhas vegetais.
+cigarro: Pequeno cilindro de papel preenchido com tabaco triturado destinado ao consumo por combustão.
+cinzeiro: Receptáculo incombustível voltado para a deposição de cinzas e resíduos de tabagismo.
+gás: Estado de agregação da matéria de alta compressibilidade e ausência de volume próprio, usado como combustível.
+fogao: Equipamento térmico doméstico de cocção provido de queimadores atmosféricos.
+forno: Câmara termicamente isolada projetada para o aquecimento volumétrico uniforme de alimentos.
+microondas: Eletrodoméstico que aquece alimentos por excitação dielétrica das moléculas de água via radiação eletromagnética.
+panela: Vaso culinário termorresistente de condução térmica direta.
+frigideira: Utensílio metálico raso de ampla superfície horizontalizado, ideal para frituras e grelhados.
+leiteira: Caneca cilíndrica vertical de alta capacidade térmica projetada para a fervura de líquidos lácteos.
+bule: Recipiente bojudo com bico vertedor e alça isolada para o serviço de infusões quentes.
+garrafa: Contentor cilíndrico de líquidos com terminação afunilada.
+copo: Utensílio de translação hídrica para deglutição imediata.
+jarra: Recipiente de serviço com bico e alça de grande volume para distribuição de bebidas à mesa.
+filtro: Dispositivo poroso que retém partículas sólidas e impurezas microbianas da água de consumo.
+agua: Composto molecular essencial à homeostase celular de todos os seres vivos.
+gelo: Fase sólida cristalina da água obtida pela remoção de energia térmica abaixo de zero grau Celsius.
+sorvete: Emulsão laticínia congelada e aerada, edulcorada e combinada com bases aromáticas.
+picolé: Confeito hídrico ou laticínio adocicado fixado a uma haste de madeira e mantido sob congelamento.
+doce: Preparação alimentícia saturada de glicídios.
+bala: Pequena guloseima de consistência dura ou mastigável baseada em calda de açúcar concentrada.
+chiclete: Goma elástica mastigável não deglutível impregnada com flavorizantes e edulcorantes.
+chocolate: Produto sólido resultante do processamento de sementes fermentadas e torradas de Theobroma cacao.
+biscoito: Confeito assado de massa seca e crocante derivado de farinhas de cereais.
+bolacha: Variante regional para produtos de panificação secos e planos, doces ou salgados.
+bolo: Massa aerada assada para celebrações festivas.
+torta: Preparação culinária assada composta por uma base de massa e recheio estruturado exposto ou coberto.
+pao: Produto da fermentação biológica e assamento de farinhas e água.
+torrada: Fatia de pão submetida a calor radiante até sofrer a reação de Maillard e desidratação crocante.
+geleia: Conserva translúcida obtida pela cocção de frutos com açúcar até a gelificação da pectina.
+mel: Substância viscosa e açucarada produzida por insetos himenópteros a partir do néctar floral.
+açucar: Carboidrato cristalino purificado amplamente utilizado como agente edulcorante universal.
+sal: Cloreto de sódio cristalizado utilizado como realçador de sabor e agente osmótico de conservação.
+pimenta: Fruto ou semente rica em capsaicina ou piperina que induz a sensação de pungência térmica nas papilas gustativas.
+vinagre: Solução aquosa diluída de ácido acético resultante da fermentação bacteriana do álcool.
+azeite: Óleo monoinstaturado extraído por prensagem mecânica dos frutos da oliveira.
+oleo: Substância lipídica líquida hidrofóbica de origem vegetal ou animal usada para transferência térmica.
+tempero: Combinação de ervas, especiarias e sais voltada à modulação organoléptica dos alimentos.
+alho: Bulbo composto por bulbilhos ricos em alicina, de odor pungente e amplo uso culinário.
+cebola: Bulbo tunicado de camadas concêntricas rico em compostos sulfurados que causam lacrimejamento.
+tomate: Fruto drupáceo da família das solanáceas rico em licopeno e base de molhos universais.
+alface: Hortaliça folhosa herbácea consumida preferencialmente in natura em saladas frias.
+batata: Tubérculo subterrâneo rico em amido originário da região andina e pilar calórico global.
+cenoura: Raiz tuberosa alongada rica em betacaroteno e precursores de vitamina A.
+arroz: Grão cerealífero monocotiledôneo que constitui a base alimentar hidrolisada de metade da população mundial.
+feijao: Semente leguminosa rica em proteínas vegetais que compõe a simetria nutricional clássica com o arroz.
+macarrao: Massa alimentícia seca ou fresca obtida pela extrusão de farinha de trigo e água em formatos variados.
+carne: Tecido muscular estriado esquelético animal consumido após processamento térmico.
+frango: Espécime juvenil domesticado de Gallus gallus domesticus explorado por sua proteína cárnea.
+peixe: Vertebrado aquático ectotérmico dotado de brânquias e nadadeiras consumido como recurso pesqueiro.
+ovo: Célula reprodutiva aviária encapsulada em casca calcária rica em albumina e gema lipídica.
+queijo: Matriz láctea coagulada e maturada.
+presunto: Peça anatômica suína traseira salgada e curada.
+salsicha: Embutido cárneo ultraprocessado e emulsionado acondicionado em invólucro cilíndrico.
+linguica: Embutido de carne picada ou moída temperada com especiarias e submetida ou não à cura.
+carneiro: Ovino macho adulto que atua como produtor de lã e carne de sabor característico forte.
+porco: Mamífero suídeo domesticado onívoro de alto rendimento lipídico e cárneo.
+boi: Bovino macho castrado utilizado na pecuária de corte ou como força de tração rural.
+vaca: Fêmea bovina adulta multípara explorada para produção em larga escala de secreção láctea.
+cavalo: Mamífero perissodáctilo domesticado de grande porte utilizado para montaria e tração atlética.
+egua: Fêmea adulta do equino reprodutor de alto valor biológico nas dinâmicas de haras.
+asno: Mamífero equídeo de orelhas longas adaptado a climas áridos e transporte de carga rústica.
+burro: Híbrido estéril resultante do cruzamento entre um jumento e uma égua, notório pela resiliência física.
+cabra: Fêmea caprina de hábitos herbívoros ágeis explorada por seu leite de fácil digestão.
+bode: Macho caprino adulto dotado de cornos e glândulas odoríferas marcantes.
+ovelha: Fêmea ovina produtora de fibras lanigeras e leite para queijos finos.
+carneiro: Macho ovino reprodutor dotado de chifres helicoidais.
+galinha: Ave galiforme doméstica não voadora explorada em larga escala pela indústria avícola.
+galo: Macho alfa aviário caracterizado por crista proeminente e vocalização matinal rítmica.
+pinto: Espécime aviário em estágio de desenvolvimento inicial pós-eclosão do ovo.
+pato: Ave anatifome palmípede adaptada ao nado superficial em corpos d'água doce.
+marreco: Pequena ave anatídea doméstica de carne escura muito valorizada na culinária regional.
+ganso: Ave anatídea de grande porte e comportamento territorial agressivo usada como vigilante biológico.
+peru: Ave galiforme de grande porte nativa da América do Norte, central em banquetes votivos sazonais.
+passaro: Pequena ave da ordem dos passeriformes dotada de capacidade de canto e voo ágil.
+bemtevi: Ave passeriforme insetívora cuja vocalização onomatopoética trisilábica marca o ambiente urbano brasileiro.
+pardo: Terminologia fenotípica ou espécime aviário de coloração melânica mista e discreta.
+pombo: Ave columbiforme urbana sinantrópica adaptada à antropização e vetor de patógenos.
+urubu: Ave catartiforme necrófaga essencial para a eliminação sanitária de carcaças nos ecossistemas.
+gaviao: Ave de rapina diurna dotada de visão binocular de alta resolução e garras preenséis afiadas.
+aguia: Predador aviário de topo de cadeia, símbolo de acuidade visual e imponência heráldica.
+coruja: Ave de rapina noturna caracterizada por voo silencioso e olhos frontais hipertrofiados para baixa luminosidade.
+morcego: Único mamífero voador da ordem dos quirópteros, orientando-se por ecolocalização ultrassônica.
+rato: Pequeno roedor murídeo de alta capacidade reprodutiva e hábitos sinantrópicos nocivos.
+barata: Inseto blatodeo achatado de alta resiliência biológica e hábitos detritívoros noturnos.
+formiga: Inseto himenóptero eussocial caracterizado por colônias hierarquizadas e divisão de trabalho estrita.
+mosca: Inseto díptero provido de um único par de asas funcionais e aparelho bucal lambedor-sugador.
+mosquito: Díptero nematócero cuja fêmea possui aparelho bucal picador-sugador necessário ao hematofagismo.
+pernilongo: Variante popular para mosquitos culicídeos de pernas longas que perturbam o repouso com zumbidos.
+abelha: Inseto antófilo polinizador crucial produtor de mel, geleia real e cera em colmeias complexas.
+vespa: Himenóptero predador ou parasitoide dotado de ferrão liso que permite múltiplas inoculações de peçonha.
+marimbondo: Denominação regional para vespas sociais construtoras de ninhos papiráceos expostos.
+aranha: Artrópode quelicerado da classe dos aracnídeos produtor de fios de seda proteica para captura de presas.
+escorpiao: Aracnídeo predador dotado de pedipalpos em pinça e telson modificado em aguilhão inoculador de neurotoxinas.
+cobra: Répil escamado ápode de corpo alongado, cuja locomoção ocorre por ondulação lateral.
+lagarto: Réptil escamado tetrápode de hábitos predominantemente ectotérmicos e heliófilos.
+sapo: Anfíbio anuro de pele rugosa e glândulas paratóides produtoras de toxinas de defesa contra predadores.
+ra: Anfíbio anuro de hábitos predominantemente aquáticos, pele lisa e membros posteriores hipertrofiados para o salto.
+perereca: Anuro arborícola caracterizado por discos adesivos digitais adaptados à escalada vertical.
+peixe: Organismo pisciforme de respiração branquial estável.
+tubarao: Peixe condrictio predador de topo com esqueleto cartilaginoso e múltiplas fileiras de dentes substituíveis.
+baleia: Cetáceo mamífero marinho hipertrofiado que filtra plâncton ou caça presas por biossonar.
+golfinho: Cetáceo odontoceto de alta encefalização e comportamento social complexo em ambientes marinhos.
+siri: Crustáceo decápode marinho cuja última perna sofreu modificação anatômica em formato de paleta natatória.
+caranguejo: Crustáceo decápode braquiúro de carapaça rígida e locomoção predominantemente lateral sobre o substrato.
+camarao: Crustáceo decápode pleociemado de abdômen alongado e carapaça quitinosa semitransparente.
+lagosta: Crustáceo marinho bentônico de grande porte dotado de antenas hipertrofiadas e abdômen musculoso.
+concha: Estrutura calcária secretada pelo manto de moluscos para proteção mecânica de seu corpo mole.
+ostra: Molusco bivalve marinho sessor que filtra nutrientes e pode encapsular corpos estranhos em nácar.
+marisco: Denominação genérica para moluscos bivalves comestíveis capturados em zonas de maré.
+polvo: Molusco cefalópode octópode desprovido de esqueleto interno, célebre por sua mimetização e inteligência.
+lula: Cefalópode decápode de corpo hidrodinâmico dotado de giba interna quitinosa e propulsão a jato.
+agua-viva: Forma medusoide livre de cnidários constituída majoritariamente por mesogleia gelatinosa e tentáculos urticantes.
+coral: Colônia de pólipos cnidários sésseis que secretam exoesqueletos de carbonato de cálcio formando recifes.
+alga: Organismo autotrófico fotossintetizante talofítico de ambiente aquático, desprovido de tecidos verdadeiros.
+areia: Depósito sedimentar de grânulos silicosos.
+praia: Interface litorânea de sedimentação arenosa.
+mar: Corpo hídrico salino planetário.
+onda: Perturbação mecânica oscilatória que propaga energia através da superfície da água do mar.
+surf: Atividade desportiva baseada no deslizamento hidrodinâmico sobre a crista de uma onda em movimento.
+barco: Embarcação genérica destinada à navegação em corpos d'água por propulsão variada.
+navio: Embarcação de grande porte projetada para o transporte transoceânico de cargas ou passageiros.
+lancha: Pequena embarcação rápida movida por motor de popa ou centro de alta potência.
+iate: Embarcação de recreação de luxo dotada de cabines e infraestrutura de alta hotelaria náutica.
+vela: Superfície de lona projetada para capturar a energia cinética do vento e convertê-la em empuxo náutico.
+remo: Instrumento de alavanca manual dotado de pá terminal para propulsão hidrodinâmica de embarcações.
+canoa: Embarcação linear simétrica estreita movida por remos de pá única, de origem indígena tradicional.
+caiaque: Pequena embarcação monolugar de convés fechado impulsionada por remo de pá dupla.
+pesca: Atividade de extração antrópica de organismos aquáticos para subsistência ou desporto.
+anzol: Dispositivo metálico curvado e farpado projetado para fisgar a cavidade oral de peixes.
+linha: Monofilamento de nylon de alta tenacidade invisível sob a água para manejo pesqueiro.
+rede: Trama de fios entrelaçados em malhas simétricas destinada ao aprisionamento massivo de cardumes.
+peixe: Animal aquático vertebrado de sangue frio.
+rio: Curso hídrico lótico de fluxo contínuo.
+riacho: Curso d'água natural de pequeno volume e extensão, tributário de sistemas maiores.
+corrego: Canal hídrico estreito e raso de escoamento superficial rápido.
+fonte: Ponto de afloramento natural onde o lençol freático intercepta a superfície topográfica.
+mina: Local de extração mineral ou surgência hídrica subterrânea oculta.
+poço: Perfuração vertical cilíndrica na crosta para captação direta de águas subterrâneas.
+balde: Contentor hídrico portátil com alça.
+corda: Estrutura linear de alta resistência obtida pelo entrelaçamento helicoidal de fibras têxteis ou sintéticas.
+nó: Entrelaçamento deliberado e travado de uma ou mais cordas que se fixa por atrito sob tensão.
+laço: Alça corrediça formada em uma corda que se fecha ao redor de um objeto quando tracionada.
+fita: Tira estreita e flexível de tecido, plástico ou papel usada para atar, ornamentar ou fixar.
+elastico: Polímero capaz de sofrer grandes deformações reversíveis sob tensão mecânica.
+barbante: Fio grosso torcido de fibras de algodão usado para amarrações rústicas e empacotamento.
+fio: Condutor ou filamento flexível unitário.
+arame: Haste metálica cilíndrica trefilada de alta flexibilidade e resistência mecânica.
+prego: Fixador metálico linear acionado por impacto.
+parafuso: Fixador mecânico provido de rosca helicoidal.
+porca: Elemento metálico provido de rosca interna fêmea que se acopla ao parafuso para travamento mecânico.
+aruela: Disco metálico perfurado interposto para distribuir a força de aperto de um parafuso ou porca.
+ferramenta: Objeto mecânico amplificador da capacidade física humana.
+martelo: Instrumento percussor de massa concentrada.
+serrote: Ferramenta manual provida de lâmina dentada de aço para o seccionamento transversal de madeiras.
+alicate: Pinça articulada de multiplicação de força mecânica manual.
+chave: Instrumento acionador de fechaduras ou parafusos.
+fenda: Ponta instrumental achatada linear projetada para acoplamento em parafusos de fenda simples.
+philips: Ponta de chave em formato de cruz geométrica autodirecionável para parafusos específicos.
+teste: Dispositivo indicador de presença de potencial elétrico ativo em condutores.
+fita: Película polimérica ou celulósica em rolo.
+isolante: Fita plástica dielétrica usada para encapar conexões elétricas e evitar curto-circuitos.
+crepe: Fita de papel poroso saturado dotada de adesivo de baixa aderência para mascaramento de pinturas.
+adesiva: Fita polimérica recoberta por adesivo sensível à pressão para união rápida de superfícies.
+dupla: Atributo de bifacialidade funcional.
+face: Superfície ativa ou lado de apresentação de um objeto.
+cola: Polímero aglutinante de adesão interfacial.
+bastao: Formato sólido cilíndrico de adesivo termoestável ou de fricção direta.
+liquida: Fase fluida de um adesivo que cura por evaporação do solvente ou reação química.
+silicone: Polímero inorgânico elástico termorresistente usado como selante e calafetador impermeável.
+massa: Mistura plástica pastosa maleável que endurece após a aplicação estrutural.
+corrida: Composto acrílico pastoso aplicado para regularização e nivelamento de superfícies de alvenaria.
+gesso: Sulfato de cálcio hemi-hidratado que endurece rapidamente ao ser misturado com água, usado em acabamentos.
+cal: Óxido de cálcio obtido pela calcinação de rochas calcárias, componente aglomerante de argamassas históricas.
+cimento: Pó ligante aglomerante hidráulico.
+tijolo: Bloco paralelompípedo cerâmico estrutural.
+bloco: Elemento construtivo modular pré-moldado de concreto ou cerâmica de dimensões maiores que o tijolo.
+telha: Peça cerâmica ou cimentícia moldada para a composição de canais de drenagem em telhados.
+madeira: Material lignocelulósico de suporte arbóreo.
+tabua: Peça de madeira serrada de pequena espessura e ampla superfície plana.
+viga: Elemento estrutural horizontal encarregado de transferir as cargas da laje para os pilares.
+caibro: Componente de madeira de seção quadrada usado na estruturação intermediária de telhados.
+ripa: Sarrafo delgado de madeira fixado perpendicularmente aos caibros para suporte direto das telhas.
+prego: Artefato de fixação linear por impacto mecânico.
+martelo: Instrumento de percussão manual.
+obra: Sítio de construção ou reforma civil caracterizado pela transformação intensiva de materiais de engenharia.
+pedreiro: Artífice da construção civil especializado na execução de fundações, alvenarias e revestimentos pétreos.
+servente: Auxiliar operacional da construção civil responsável pelo transporte de insumos e preparação de argamassas.
+mestre: Profissional técnico de liderança de canteiro encarregado de supervisionar a execução do projeto.
+engenheiro: Profissional técnico responsável pelo cálculo estrutural, gerenciamento e viabilidade física de uma obra.
+arquiteto: Profissional responsável pela concepção espacial, estética e funcional do ambiente edificado.
+desenho: Projeção gráfica de formas em duas dimensões.
+planta: Representação gráfica em projeção horizontal de uma edificação vista de cima para baixo.
+projeto: Conjunto de documentos, cálculos e desenhos que definem formalmente a execução futura de um intento.
+maquete: Representação tridimensional em escala reduzida de um espaço arquitetônico ou objeto.
+escala: Razão matemática de proporcionalidade entre as dimensões do desenho e as dimensões reais do objeto.
+metro: Unidade fundamental de comprimento do Sistema Internacional baseada na velocidade da luz.
+trena: Fita métrica flexível de aço retrátil contida em estojo para medições lineares de campo.
+regua: Haste plana graduada para traçado retilíneo.
+esquadro: Instrumento em ângulo reto (90 graus) utilizado para verificar a ortogonalidade de estruturas.
+nivel: Dispositivo provido de bolha de ar em fluido para verificação da horizontalidade de uma superfície.
+linha: Traço contínuo ou fio guia de nylon saturado de giz para marcações retilíneas.
