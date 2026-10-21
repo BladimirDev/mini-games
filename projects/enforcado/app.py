@@ -10,10 +10,11 @@ class App:
 
         self.actual_word = ""
         self.game_word_state = []
-        self.word_list = words_reader.words_list
+        self.word_list = words_reader.get_words()
+        self.word_desc_list = words_reader.get_desc()
         self.error_cont = 0
 
-        self.actual_word_choice = random.randint(0, len(self.word_list) - 1)
+        self.actual_word_choice = 0
         self.select_word()
         self.actual_word_char_list = self.get_actual_word_char_list()
 
@@ -34,7 +35,10 @@ class App:
         self.show_instructions()
 
     def select_word(self):
+        self.actual_word_choice = random.randint(0, len(self.word_list) - 1)
+
         self.actual_word = self.word_list[self.actual_word_choice]
+        print(self.actual_word)
 
         for i in range(len(self.actual_word)):
             self.game_word_state.append("_")
@@ -88,6 +92,9 @@ class App:
     def show_word(self):
         designs.show_design()
 
+        #print("Palavra:", self.actual_word)
+        print("Pista:", self.word_desc_list[self.actual_word_choice])
+
         word_status = ""
         for i in range(len(self.actual_word)):
             word_status += self.game_word_state[i]
@@ -104,17 +111,15 @@ class App:
         while True:
             if self.winned:
                 self.show_word()
-                print("Parabéns!, Você ganhou e a palavra era:", self.actual_word.upper() + "!")
+                print("Parabéns!, Você ganhou e a palavra era:", self.actual_word.upper() + "!\n")
                 designs.set_actual_design(0)
                 return
             elif designs.died:
                 self.show_word()
-                print("Ops.. Você perdeu, a personagem foi enforcada :(")
+                print("Ops.. Você perdeu, a personagem foi enforcada :(, a palavra era:", self.actual_word.upper()+"!\n")
                 designs.set_actual_design(0)
                 return
 
             self.show_word()
             self.input_letter()
             self.discover_letter()
-
-
